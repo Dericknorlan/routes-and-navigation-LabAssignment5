@@ -29,7 +29,7 @@ Dalam pengembangan apliaksi kali ini, telah ditambahkan:
 ### Langkah-langkah Instalasi
 1. Clone repositori ini ke komputer Anda:
    ```bash
-   git clone 
+   git clone git@github.com:Dericknorlan/routes-and-navigation-LabAssignment5.git
    ```
    
 2. Navigasikan ke direktori proyek:
