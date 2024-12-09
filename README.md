@@ -34,7 +34,7 @@ Dalam pengembangan apliaksi kali ini, telah ditambahkan:
    
 2. Navigasikan ke direktori proyek:
    ```bash
-   cd navigation_codelab
+   cd routes-and-navigation-LabAssignment5
    ```
    
 3. Jalankan perintah berikut untuk menginstal dependensi:
